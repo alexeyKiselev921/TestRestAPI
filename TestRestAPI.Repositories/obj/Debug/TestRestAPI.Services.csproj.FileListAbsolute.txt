@@ -1,0 +1,8 @@
+D:\local\TestRestAPI\TestRestAPI.Repositories\bin\Debug\TestRestAPI.Repositories.dll
+D:\local\TestRestAPI\TestRestAPI.Repositories\bin\Debug\TestRestAPI.Repositories.pdb
+D:\local\TestRestAPI\TestRestAPI.Repositories\bin\Debug\TestRestAPI.Models.dll
+D:\local\TestRestAPI\TestRestAPI.Repositories\bin\Debug\TestRestAPI.Models.pdb
+D:\local\TestRestAPI\TestRestAPI.Repositories\obj\Debug\TestRestAPI.Services.csprojResolveAssemblyReference.cache
+D:\local\TestRestAPI\TestRestAPI.Repositories\obj\Debug\TestRestAPI.Services.csproj.CoreCompileInputs.cache
+D:\local\TestRestAPI\TestRestAPI.Repositories\obj\Debug\TestRestAPI.Repositories.dll
+D:\local\TestRestAPI\TestRestAPI.Repositories\obj\Debug\TestRestAPI.Repositories.pdb
